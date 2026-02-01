@@ -1,0 +1,16 @@
+{
+    "folder": "targets",
+    "threshold": 0.8,
+    "delay_global": 2.0,
+    "delay_between_actions": 0.5,
+    "loop_mode": "infinite",
+    "loop_count": 1,
+    "hotkey_start": "f9",
+    "hotkey_stop": "f10",
+    "hotkey_pause": "f11",
+    "ocr_lang": "eng",
+    "click_duration": 0.1,
+    "safety_delay": 0.05,
+    "max_retries": 3,
+    "screenshot_on_error": true
+}
